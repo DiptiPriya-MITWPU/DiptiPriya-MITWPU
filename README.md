@@ -1,17 +1,22 @@
-## Hey, I'm Dipti! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<a href="https://www.linkedin.com/in/dipti-priya-1653ba182/">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+## Hey, I'm Dipti! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img align="right" src="https://komarev.com/ghpvc/?username=DiptiPriya-MITWPU&label=Profile%20views&color=0e75b6&style=flat" alt="DiptiPriya-MITWPU" />
+
 <a href="mailto:diptipriya1106@gmail.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin" />
+<!--   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> -->
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dipti-priya-1653ba182/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+<!--   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> -->
+</a>
+
 <br />
 
-<p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiptiPriya-MITWPU&label=Profile%20views&color=0e75b6&style=flat" alt="DiptiPriya-MITWPU" /> </p>
-</p>
+<!-- <p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DiptiPriya-MITWPU&label=Profile%20views&color=0e75b6&style=flat" alt="DiptiPriya-MITWPU" /> </p>
+</p> -->
 
-<h3> About Me &nbsp; 🚀 </h3>
+<h3> About Me &nbsp;😄</h3>
 <p>
 🔭 I'm a Software Engineer who keeps learning something new everyday.
 </p><p>
@@ -34,7 +39,7 @@
   </p>
 
 <p align="center">
-☕ &nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+:octocat: &nbsp; <i><b>GitHub Stats... </b><br><br>
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiPriya-MITWPU&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=DiptiPriya-MITWPU&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 
