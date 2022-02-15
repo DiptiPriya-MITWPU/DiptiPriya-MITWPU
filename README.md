@@ -13,7 +13,7 @@
 
 <h3> About Me &nbsp; 🚀 </h3>
 <p>
-🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+🔭 I'm a Software Engineer who keeps learning something new everyday.
 </p><p>
 📎 In my free time I love to learn about graphic designing and content writing skills.
 </p><p>
