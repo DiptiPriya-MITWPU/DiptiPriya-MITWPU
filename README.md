@@ -30,7 +30,7 @@
   </p><p>
 - ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
   </p><p>
-- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
+- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Git | Github
   </p>
 
 <p align="center">
