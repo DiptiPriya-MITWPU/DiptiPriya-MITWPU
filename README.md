@@ -9,7 +9,7 @@
     <img align="left" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
+<br>
 <h3> 😄 &nbsp;About Me :</h3>
 <p>
 🔭 I'm a Software Engineer who keeps learning something new everyday.
@@ -18,7 +18,7 @@
 </p><p>
 🌱 Enthusiast in UI/UX, Web Development and Data Analytics.</p>
 <p>
-  
+ <br>
 <h3> 🛠 &nbsp;Tech Stack :   </h3>
 <p>
 - 💻  &nbsp; Data Structures & Algorithms | C | C++
@@ -31,12 +31,11 @@
   </p><p>
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Git | Github
   </p>
-
+<br>
 <h3> :octocat: &nbsp;Github Statistics : </h3>
 <p align="left">
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiPriya-MITWPU&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
-<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=DiptiPriya-MITWPU&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=DiptiPriya-MITWPU&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
 </p>
 
 
