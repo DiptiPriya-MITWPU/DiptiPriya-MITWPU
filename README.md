@@ -34,8 +34,8 @@
 <br>
 <h3> :octocat: &nbsp;Github Statistics : </h3>
 <p align="left">
-<img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiPriya-MITWPU&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=DiptiPriya-MITWPU&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DiptiPriya-MITWPU&&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Status" width="480" height="180"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiPriya-MITWPU&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Most Used Languages"/>
 </p>
 
 
