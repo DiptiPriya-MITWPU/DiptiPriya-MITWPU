@@ -1,5 +1,11 @@
 ## Hey, I'm Dipti! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img align="right" src="https://komarev.com/ghpvc/?username=DiptiPriya-MITWPU&label=Profile%20views&color=0e75b6&style=flat" alt="DiptiPriya-MITWPU" />
 
+###
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif">
+
+###
+
 <div>
   <a href="https://www.linkedin.com/in/dipti-priya-1653ba182/" target="blank">
     <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
