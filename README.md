@@ -20,7 +20,7 @@
 <p>
 🔭 I'm a Software Engineer who keeps learning something new everyday.
 </p><p>
-📎 In my free time I love to learn about graphic designing and content writing skills.
+📎 I love to learn about graphic designing and content writing skills.
 </p><p>
 🌱 Enthusiast in UI/UX, Web Development and Data Analytics.</p>
 <p>
